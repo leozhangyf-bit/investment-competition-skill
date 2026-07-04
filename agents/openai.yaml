@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investment Competition"
+  short_description: "Run and verify weekly investment competition updates"
+  default_prompt: "Use $investment-competition to update this season's weekly rankings, validate the outputs, and prepare them for review before deployment."
